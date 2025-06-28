@@ -10,6 +10,12 @@
 ympäristöön liikenneyhteyksiin, paikalliseen harrastus ja seuratoimintaan, kauppoihin, kouluihin.</p>
 <p>pyrimme haastattelemaan paikallisia asukkaita, sekä kuvaamme asujamistoa ja ympäröivää luontoa. </p>
 
+ <p><a href="LUONTO.md">Tutustu alueen luontoon</a></p>
+  <p><a href="ASUJAMISTO.md">Asujamisto</a></p>
+   <p><a href="LIIKENNE.md">Tutustu alueen luontoon</a></p>
+ <p><a href="YRITYKSET.md">Yritykset</a></p>
+
+
 
 </body>
 </html>
