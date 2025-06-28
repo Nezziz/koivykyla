@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>GitHub Pages  Aiheena Koivukylä-Havukoski</title>
