@@ -1,7 +1,3 @@
----
-title: Etusivu
-layout: default
----
 
 # Tervetuloa Koivukylä-Havukosken sivustolle!
 
