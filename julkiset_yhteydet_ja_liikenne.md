@@ -1,10 +1,10 @@
 ---
 title: liikenne
 layout: default
-permalink: /asujamisto/
+permalink: /liikenne/
 ---
 
-# liikenne
+# Liikenne
 
 Tervetuloa tutustumaan Koivukylä-Havukoski julkisen liikenteen ympäristöön!
 
