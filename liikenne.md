@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Liikenne
+permalink: liikenne/
 
 # Liikenne
 
