@@ -1,5 +1,5 @@
 ---
-title: liikenne
+title: Liikenne
 layout: default
 permalink: /liikenne/
 ---
