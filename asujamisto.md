@@ -1,6 +1,7 @@
 ---
 layout: default
 title: asujamisto
+permalink: /asujamisto/
 ---
 
 <h1>Tervetuloa tutustumaan Koivukylä-Havukoski ympäristöön!</h1>
