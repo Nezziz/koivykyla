@@ -4,6 +4,16 @@ title: Asujamisto
 permalink: asujamisto/
 ---
 
-Tervetuloa tutustumaan Koivukylä-Havukoski ympäristöön!
+# Asujamisto
 
-Tämä alue on monipuolinen ja sillä on sekä haasteita että vahvuuksia, jotka tekevät siitä kiinnostavan osan pääkaupunkiseutua.
+Tervetuloa tutustumaan Koivukylä-Havukosken asuinympäristöön!
+
+Koivukylä-Havukoski on monipuolinen alue, jossa yhdistyvät erilaiset asumismuodot, kulttuuritaustat ja yhteisöllisyys. Alueella on sekä haasteita että vahvuuksia, jotka tekevät siitä kiinnostavan osan pääkaupunkiseutua.
+
+## Asumiseen liittyviä piirteitä
+
+- Kerrostalot ja pientalot  
+- Perheystävällisyys  
+- Palvelujen läheisyys  
+- Luontoasumisen läheisyys  
+- Monimuotoinen väestö  
