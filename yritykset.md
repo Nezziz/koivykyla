@@ -2,7 +2,6 @@
 layout: default
 title: Yritykset
 permalink: yritykset/
----
 
 # Yritykset
 
