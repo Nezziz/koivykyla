@@ -1,6 +1,6 @@
 ---
 layout: default
-title: asujamisto
+title: Asujamisto
 permalink: /asujamisto/
 ---
 
