@@ -1,5 +1,5 @@
 ---
-title: etusivu
+title: Etusivu
 layout: default
 ---
 
