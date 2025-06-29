@@ -1,10 +1,16 @@
 
-<html>
-<head>
-    <title>GitHub Pages  Aiheena Koivukylä-Havukoski</title>
-<link rel="stylesheet" type="text/css" href="styles.css">
-</head>
-<body>
+---
+title: Etusivu
+---
+
+# Tervetuloa Koivukylä-Havukosken sivustolle!
+
+Tältä sivustolta löydät tietoa alueesta:
+
+- [Asujamisto](/ASUJAMISTO)
+- [Luonto](/LUONTO)
+- [Yritykset](/YRITYKSET)
+
     <h1>Tervetuloa tutustumaan Koivukylä-Havukoski ympäristöön!</h1>
     <p class="container">tällä sivustolla tutustutaan alueen asujamistoon, 
 ympäristöön liikenneyhteyksiin, paikalliseen harrastus ja seuratoimintaan, kauppoihin, kouluihin.</p>
