@@ -3,6 +3,11 @@
 
 Tältä sivustolta löydät tietoa alueesta:
 
+<p><a href="/luonto">Tutustu alueen luontoon</a></p>
+<p><a href="/asujamisto">Asujamisto</a></p>
+<p><a href="/liikenne">Tutustu alueen liinkennepalveluihin.</a></p>
+<p><a href="/yritykset">Yritykset</a></p>
+
 - [Asujamisto](/asujamisto)
 - [Luonto](/luonto)
 - [Yritykset](/yritykset)
