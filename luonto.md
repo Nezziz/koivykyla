@@ -2,7 +2,6 @@
 layout: default
 title: Luonto
 permalink: luonto/
----
 
 # Luonto
 Luonto, on kaunis ja mahdollistava
