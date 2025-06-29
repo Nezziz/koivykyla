@@ -1,6 +1,7 @@
 ---
 title: Luonto
 layout: default
+permalink: /asujamisto/
 ---
 
 # luonto
