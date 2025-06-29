@@ -1,6 +1,7 @@
 # Tervetuloa Koivukylä-Havukosken sivustolle!
 
 Tältä sivustolta löydät tietoa alueesta:
+
 [Tutustu alueen luontoon](luonto/)  
 [Asujamisto](asujamisto/)  
 [Tutustu alueen liikenneyhteyksiin](liikenne/)  
