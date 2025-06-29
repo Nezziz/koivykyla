@@ -6,15 +6,17 @@ permalink: liikenne/
 
 # Liikenne
 
-Tervetuloa tutustumaan Koivukylä-Havukoski julkisen liikenteen ympäristöön!
+Tervetuloa tutustumaan Koivukylä-Havukosken julkisen liikenteen ja liikkumisen mahdollisuuksiin!
 
-BUSSIT
-JUNA
-ALEPA PYÖRÄT
-TAXI
-Kävely
-PYÖRÄILY
+## Liikkumismuodot alueella
+
+- Bussit  
+- Juna  
+- Alepa-pyörät  
+- Taksi  
+- Kävely  
+- Pyöräily  
 
 Tämä alue on monipuolinen ja sillä on sekä haasteita että vahvuuksia, jotka tekevät siitä kiinnostavan osan pääkaupunkiseutua.
 
-[← Takaisin etusivulle](/)
+
