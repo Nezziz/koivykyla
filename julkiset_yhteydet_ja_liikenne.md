@@ -1,9 +1,9 @@
 ---
-title: Liikenne
+title: liikenne
 layout: default
 ---
 
-# Liikenne
+# liikenne
 
 Tervetuloa tutustumaan Koivukylä-Havukoski julkisen liikenteen ympäristöön!
 
