@@ -2,6 +2,7 @@
 ---
 title: Yritykset
 layout: default
+permalink: /asujamisto/
 ---
 
 # yritykset
