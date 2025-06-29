@@ -4,7 +4,7 @@ layout: default
 permalink: /luonto/
 ---
 
-# luonto
+# Luonto
 Luonto, on kaunis ja mahdollistava
 
 
