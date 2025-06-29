@@ -1,6 +1,6 @@
 ---
-title: Yritykset
 layout: default
+title: Yritykset
 permalink: /yritykset/
 ---
 
