@@ -1,4 +1,3 @@
-
 ---
 title: Yritykset
 layout: default
