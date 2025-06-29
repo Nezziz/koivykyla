@@ -5,7 +5,7 @@ layout: default
 permalink: /yritykset/
 ---
 
-# yritykset
+# Yritykset
 
 Tervetuloa tutustumaan Koivukylä-Havukoski yrityksiin sekä palvelutarjoajiin
 
