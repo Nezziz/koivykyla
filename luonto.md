@@ -1,6 +1,6 @@
 ---
-title: Luonto
 layout: default
+title: Luonto
 permalink: /luonto/
 ---
 
