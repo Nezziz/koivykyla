@@ -4,7 +4,7 @@ title: Yritykset
 layout: default
 ---
 
-# Yritykset
+# yritykset
 
 Tervetuloa tutustumaan Koivukylä-Havukoski yrityksiin sekä palvelutarjoajiin
 
