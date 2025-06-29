@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Asujamisto
+permalink: asujamisto/
 
 Tervetuloa tutustumaan Koivukylä-Havukoski ympäristöön!
 
