@@ -1,6 +1,6 @@
 
 ---
-title: Etusivu
+title: etusivu
 layout: default
 ---
 
@@ -8,10 +8,10 @@ layout: default
 
 Tältä sivustolta löydät tietoa alueesta:
 
-- [Asujamisto](/ASUJAMISTO)
-- [Luonto](/LUONTO)
-- [Yritykset](/YRITYKSET)
-- [Liikenne](/JULKISET_YHTEYDET_JA_LIIKENNE).
+- [Asujamisto](/asujamisto)
+- [Luonto](/luonto)
+- [Yritykset](/yritykset)
+- [Liikenne](/julkiset_yhteydet_ja_liikenne).
 
 Tervetuloa tutustumaan Koivukylä-Havukoski ympäristöön!
 tällä sivustolla tutustutaan alueen asujamistoon, ympäristöön liikenneyhteyksiin, paikalliseen harrastus ja seuratoimintaan, kauppoihin, kouluihin.
