@@ -2,7 +2,7 @@
 title: liikenne
 ---
 
-# liikenne
+# Liikenne
 
 Tervetuloa tutustumaan Koivukylä-Havukoski julkisen liikenteen ympäristöön!
 
