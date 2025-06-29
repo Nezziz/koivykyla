@@ -1,6 +1,7 @@
 ---
 title: liikenne
 layout: default
+permalink: /asujamisto/
 ---
 
 # liikenne
