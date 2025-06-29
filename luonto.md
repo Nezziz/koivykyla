@@ -3,7 +3,7 @@ title: Luonto
 layout: default
 ---
 
-# Luonto
+# luonto
 Luonto, on kaunis ja mahdollistava
 
 
