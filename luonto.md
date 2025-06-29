@@ -5,16 +5,16 @@ permalink: luonto/
 ---
 
 # Luonto
-Luonto, on kaunis ja mahdollistava
 
+Koivukylä-Havukosken luonto on kaunis ja mahdollistava — se tarjoaa monipuolisia tapoja liikkua ja nauttia ympäristöstä.
 
-Kävely
-PYÖRÄILY
-pulkkamäki
-pururata
-Liikuntapaikat
+## Ulkoilumahdollisuuksia
 
+- Kävelyreitit  
+- Pyöräily  
+- Pulkkamäki  
+- Pururata  
+- Liikuntapaikat  
 
 Tämä alue on monipuolinen ja sillä on sekä haasteita että vahvuuksia, jotka tekevät siitä kiinnostavan osan pääkaupunkiseutua.
-
 
