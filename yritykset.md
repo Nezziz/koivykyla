@@ -13,5 +13,3 @@ Ruoka
 Juoma
 
 Tämä alue on monipuolinen ja sillä on sekä haasteita että vahvuuksia, jotka tekevät siitä kiinnostavan osan pääkaupunkiseutua.
-
-[← Takaisin etusivulle](/)
