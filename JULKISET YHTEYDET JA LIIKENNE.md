@@ -1,5 +1,6 @@
 ---
 title: Liikenne
+layout: default
 ---
 
 # Liikenne
