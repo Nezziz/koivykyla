@@ -12,8 +12,7 @@ Tältä sivustolta löydät tietoa alueesta:
 - [Yritykset](/YRITYKSET)
 
     <h1>Tervetuloa tutustumaan Koivukylä-Havukoski ympäristöön!</h1>
-    <p class="container">tällä sivustolla tutustutaan alueen asujamistoon, 
-ympäristöön liikenneyhteyksiin, paikalliseen harrastus ja seuratoimintaan, kauppoihin, kouluihin.</p>
+tällä sivustolla tutustutaan alueen asujamistoon, ympäristöön liikenneyhteyksiin, paikalliseen harrastus ja seuratoimintaan, kauppoihin, kouluihin.
 <p>pyrimme haastattelemaan paikallisia asukkaita, sekä kuvaamme asujamistoa ja ympäröivää luontoa. </p>
 
  <p><a href="LUONTO.md">Tutustu alueen luontoon</a></p>
